@@ -50,7 +50,11 @@ var containsDuplicate = function(nums) {
 ## Description
 
 array 내부 element의 중복 여부를 찾는 문제,
-키워드: 중복, array
+
+## 키워드
+
+- 중복
+- array
 
 set을 만들고 array를 iteration 하면서 값을 하나씩 set에 넣는다.
 값이 있다면 return true로 마무리.
